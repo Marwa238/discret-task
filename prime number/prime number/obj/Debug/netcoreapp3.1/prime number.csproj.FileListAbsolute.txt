@@ -1,0 +1,14 @@
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.exe
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.deps.json
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.runtimeconfig.json
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.runtimeconfig.dev.json
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.dll
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.pdb
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.csproj.AssemblyReference.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.AssemblyInfoInputs.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.AssemblyInfo.cs
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.csproj.CoreCompileInputs.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.dll
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.pdb
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.genruntimeconfig.cache

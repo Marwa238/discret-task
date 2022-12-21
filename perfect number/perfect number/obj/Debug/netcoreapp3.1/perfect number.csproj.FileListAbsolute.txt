@@ -1,0 +1,14 @@
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\bin\Debug\netcoreapp3.1\perfect number.exe
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\bin\Debug\netcoreapp3.1\perfect number.deps.json
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\bin\Debug\netcoreapp3.1\perfect number.runtimeconfig.json
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\bin\Debug\netcoreapp3.1\perfect number.runtimeconfig.dev.json
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\bin\Debug\netcoreapp3.1\perfect number.dll
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\bin\Debug\netcoreapp3.1\perfect number.pdb
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\obj\Debug\netcoreapp3.1\perfect number.csproj.AssemblyReference.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\obj\Debug\netcoreapp3.1\perfect number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\obj\Debug\netcoreapp3.1\perfect number.AssemblyInfoInputs.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\obj\Debug\netcoreapp3.1\perfect number.AssemblyInfo.cs
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\obj\Debug\netcoreapp3.1\perfect number.csproj.CoreCompileInputs.cache
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\obj\Debug\netcoreapp3.1\perfect number.dll
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\obj\Debug\netcoreapp3.1\perfect number.pdb
+C:\Users\CRIZMA MEGA STORE\Desktop\win activation\perfect number\perfect number\obj\Debug\netcoreapp3.1\perfect number.genruntimeconfig.cache
